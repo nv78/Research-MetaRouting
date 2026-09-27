@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Mirror of [anote-ai/Research-MetaRouting](https://github.com/anote-ai/Research-MetaRouting).** Built at [Anote](https://github.com/anote-ai), which I founded, together with the contributors in this repository's commit history.
+> The original is the maintained version. Please open issues and PRs there.
+
 # Research MetaRouting
 
 This repository contains the meta-routing research project: benchmarks and
